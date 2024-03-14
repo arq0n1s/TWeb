@@ -1,0 +1,1 @@
+Luchian Pavel, CR-222. Laboratoare la obiectul Tehnologii Web.
