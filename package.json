@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "create-react-app": "^5.0.1",
+    "mobx": "^6.12.0",
+    "mobx-react": "^9.1.0",
+    "mobx-state-tree": "^5.4.1",
+    "react": "^18.2.0"
+  }
+}
